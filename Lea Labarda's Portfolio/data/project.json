@@ -1,0 +1,29 @@
+{
+  "name": "Lea L. Labarda",
+  "tagline": "Networking Student & Beginner Programmer",
+  "introduction": "I enjoy coding, networking, and image editing.",
+  "skills": ["Basic HTML", "Basic CSS", "Basic JavaScript", "Networking Fundamentals","Basic Image Editing", "Problem Solving"],
+  "projects": [
+    {
+      "title": "Networking Diagram",
+      "description": "A project showing basic networking topologies.",
+      "technologies": "Cisco Packet Tracer",
+      "image": "../image.png",
+      "link": "http://leal-labarda.github.io/networking-diagram"
+    },
+    {
+      "title": "Java Loop Exercises",
+      "description": "Practice programs using loops and conditions.",
+      "technologies": "Java",
+      "image": "../image.png",
+      "link": "http://leal-labarda.github.io/java-exercises"
+    },
+    {
+      "title": "Image Editing Collages",
+      "description": "Creative collages made for school projects.",
+      "technologies": "Photoshop, GIMP",
+      "image": "../image.png",
+      "link": "https://leal-labarda.github.io/image editing-collages"
+    }
+]
+}
